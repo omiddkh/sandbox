@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 14:49 IR
+- 📱 [roundsync_v2.6.0-oss-arm64-v8a.apk](https://github.com/omiddkh/sandbox/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk) `36.9MB`
+
+---
+
+
 ### 📅 2026-04-28 14:37 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.8.1.apk](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.8.1.apk) `18.0MB`
 
