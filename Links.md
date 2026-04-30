@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 19:34 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.2.apk](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.2.apk) `18.1MB`
+
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
+
+---
+
+
 ### 📅 2026-04-30 10:15 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.1.apk](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.1.apk) `18.1MB`
 
