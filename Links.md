@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 19:42 IR
+- 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/omiddkh/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.z01](https://github.com/omiddkh/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.z01) `95.0MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.zip.zip](https://github.com/omiddkh/sandbox/raw/main/dl/v2rayN-windows-64-desktop.zip.zip) `23.3MB`
+
+---
+
+
 ### 📅 2026-04-30 19:34 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.9.2.apk](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.2.apk) `18.1MB`
 
