@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 22:24 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.7.apk](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.7.apk) `18.1MB`
+
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/omiddkh/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.0MB`
+
+---
+
+
 ### 📅 2026-05-01 14:25 IR
 - 📱 [GooseRelayVPN-HN-1.0.0-arm64-v8a.apk](https://github.com/omiddkh/sandbox/raw/main/dl/GooseRelayVPN-HN-1.0.0-arm64-v8a-release.apk) `10.0MB`
 
